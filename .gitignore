@@ -1,5 +1,12 @@
 # anew
-node/**/node_modules
 .git-credentials
+
+# environment files
+.env 
+
+# mongpdb backup / json
 mongodb/**/*.json
 mongodb/backup
+
+# nodejs node modules
+node/**/node_modules
