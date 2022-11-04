@@ -1,4 +1,4 @@
-
 # anew
 node/**/node_modules
 .git-credentials
+mongodb/**/*.json
