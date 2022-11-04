@@ -10,3 +10,7 @@ mongodb/backup
 
 # nodejs node modules
 node/**/node_modules
+
+# python 
+python/**/.venv
+
