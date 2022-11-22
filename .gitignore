@@ -11,7 +11,7 @@ mongodb/backup
 # nodejs node modules
 node/**/node_modules
 s3/node_modules
-
+docker-heyrin/node_modules
 # python 
 python/**/.venv
 
